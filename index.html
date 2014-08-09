@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="home">
+    <div class="quote-big">
+        <div class="rs">
+            <h1>"This world does not belong to the smart people,</h1>
+            <h1>belong to the stubborn one"</h1>
+        </div>
+    </div>
+    <p>Best things in life are those where the mankind put love on it. Loving your craft is one of the most spoken secrets of life, and to me is the best advice someone could give to someone else. 
+        In this blog I'm putting my loved craft with the hope that you love it as I do.
+    My craft and this blog are about technology, more specifically, about software development, and here you could find my thoughts and learnings. </p>
+
+    <p>As developers, our job is find ways to solve problems and ideally choose the better one. A problem could be solved in plenty of technologies, languages and frameworks and stay stuck with a few ways leaves you with less options. This is why I will write as many topics as much as I could, obviously in a coherent a proper manner. Comment! I would love to learn something from you. </p>
+ 
+    <h2>Posts:</h2>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}&nbsp;</a>{{ post.date | date: "%b %-d, %Y" }}</span>
+        
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

@@ -1,0 +1,13 @@
+# Site settings
+title: Joel Bugarini
+email: joelbugarini@gmail.com
+description: "This blog is mine, I give this blog to you!"
+baseurl: ""
+url: "http://joelbugarini.github.io"
+twitter_username: joelbugarini
+github_username:  joelbugarini
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+comments: true
