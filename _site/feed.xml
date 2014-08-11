@@ -3,10 +3,10 @@
   <channel>
     <title>Joel Bugarini</title>
     <description>This blog is mine, I give this blog to you!</description>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 09 Aug 2014 00:01:59 -0700</pubDate>
-    <lastBuildDate>Sat, 09 Aug 2014 00:01:59 -0700</lastBuildDate>
+    <link>http://joelbugarini.github.io/</link>
+    <atom:link href="http://joelbugarini.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 10 Aug 2014 19:54:08 -0700</pubDate>
+    <lastBuildDate>Sun, 10 Aug 2014 19:54:08 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
@@ -24,8 +24,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Sat, 26 Jul 2014 16:20:51 -0700</pubDate>
-        <link>http://0.0.0.0:4000/jekyll/update/2014/07/26/Joes-Blog/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/jekyll/update/2014/07/26/Joes-Blog/</guid>
+        <link>http://joelbugarini.github.io/jekyll/update/2014/07/26/Joes-Blog/</link>
+        <guid isPermaLink="true">http://joelbugarini.github.io/jekyll/update/2014/07/26/Joes-Blog/</guid>
         
         
         <category>jekyll</category>
@@ -49,8 +49,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Wed, 23 Jul 2014 16:20:51 -0700</pubDate>
-        <link>http://0.0.0.0:4000/jekyll/update/2014/07/23/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/jekyll/update/2014/07/23/welcome-to-jekyll/</guid>
+        <link>http://joelbugarini.github.io/jekyll/update/2014/07/23/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://joelbugarini.github.io/jekyll/update/2014/07/23/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>

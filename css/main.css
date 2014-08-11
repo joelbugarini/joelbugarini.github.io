@@ -94,7 +94,7 @@ a:visited { color: #205caa; }
 }
 
 .footer-heading {
-  font-size: 18px;
+  font-size: 1.3em;
   font-weight: 300;
   letter-spacing: -.5px;
   margin-bottom: 15px;
@@ -130,7 +130,7 @@ a:visited { color: #205caa; }
 
 .site-footer li,
 .site-footer p {
-  font-size: 15px;
+    font-size: .8em;
   letter-spacing: -.3px;
   color: #828282;
 }
@@ -160,20 +160,21 @@ a:visited { color: #205caa; }
 
 .home h1 { margin-bottom: 25px; }
 
-.posts { list-style-type: none; }
+.posts { list-style-type: none;}
 
-.posts li { margin-bottom: 30px; }
+.posts li { margin-bottom: 5px;line-height: 1;}
 
 .posts .post-link {
   font-size: 1.2em;
   letter-spacing: -1px;
-  line-height: 1;
+    
 }
 
 .posts .post-date {
   display: block;
   font-size: 1em;
   color: #818181;
+    
 }
 
 
@@ -185,7 +186,7 @@ a:visited { color: #205caa; }
 .post-header h1 {
   font-size: 1.5em;
   letter-spacing: -1.75px;
-  line-height: 1;
+  
   font-weight: 300;
 }
 
@@ -367,45 +368,6 @@ a:visited { color: #205caa; }
 @media screen and (max-width: 600px) {
 
   .wrap { padding: 0 12px; }
-
-  .site-nav {
-    position: fixed;
-    z-index: 10;
-    top: 14px; right: 8px;
-    background-color: white;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    border: 1px solid #e8e8e8;
-  }
-
-  .site-nav .menu-icon {
-    display: block;
-    font-size: 24px;
-    color: #505050;
-    float: right;
-    width: 36px;
-    text-align: center;
-    line-height: 36px;
-  }
-
-  .site-nav .menu-icon svg { width: 18px; height: 16px; }
-
-  .site-nav .trigger {
-    clear: both;
-    margin-bottom: 5px;
-    display: none;
-  }
-
-  .site-nav:hover .trigger { display: block; }
-
-  .site-nav .page-link {
-    display: block;
-    text-align: right;
-    line-height: 1.25;
-    padding: 5px 10px;
-    margin: 0;
-  }
 
   .post-header h1 { font-size: 1em; }
   .post-content h2 { font-size: 1em; }
