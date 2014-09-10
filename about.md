@@ -24,9 +24,30 @@ Five days prior the system delivery, I flew again to Mexico City to get another 
 So, there I was, calling to Mexico City, asking for guidance, being pressured for my boss in Sonora, and being interrogated for the tech guys of the client. I was installing SQL Server for the _n_ time at 6:00 pm (14 hours for the release), it takes it’s time. More pressure and more complaints were given to me and all I could do was click Next to the installation.
 
 *10:00 pm*
-_”10 hours for the release”_  I’ve just finished other installation for the server and guess what… yes! It didn’t work. I needed to reinstall the server and start over the process. The faces of the people when I explain the situation was not a happy face. 
+_”10 hours for the release”_  I’ve just finished other installation for the server and guess what… yes! It didn’t work. I needed to reinstall the server and start over the process. The faces of the people when I explain the situation was not exactly a happy face. 
 
-*12:00 pm*
+*12:00 am*
 _”8 hours for the release”_  The people around the office was walking around without any thing to do but wait for me. That made me think that the green progress bar was peculiarly slow.
+
+*2:00 am*
+_”6 hours for the release”_  Chaos, a very accurate word for the situation. Confusion everywhere, no one believe what was happening and I was in the middle of this battle, fighting for make that thing works. All the people involved in this project was trying to help, they take some PC´s and start installing Windows Server on them, useless at this point.
+
+*4:00 am*
+_”4 hours for the release”_ The image of my boss siting on a chair, laying on his knees, grabbing his hair with his hands, spoke by itself. Things went very wrong, so I stop trying to make another installation, stand up from my chair, walk to the team and say to them:
+
+- What do you need show for today?
+- Just a window where they could see the PDF’s for today. -The boss of the project said, and I immediately remember that I had some PSD files from the Designer that I could easily import trough a feature of Blend.
+- I can make it in two hours, you take a shower, take a nap and come back to help me install it in each PC.
+- Are you sure?
+- Yes, I am -I wasn’t, but for some reason I said that.
+    
+Every one ran to their houses, I was alone importing a PSD file to a recently created project, hard coding like never before, turning images into buttons without states. Two hour later it was done, a pretty convincing screen where people can read a document. People came over to help me install in every machine and we present it that way. The meeting don’t last more than 20 minutes, nobody say nothing. I was petrified, waiting for the worst when a user say:
+
+- Are you the programmer?
+- Y..Yes -I answered with a lump in the throat.
+- Can you make swipe it on the document instead of the scrollbar? just like an iPad.
+- Of course! -I said with a smile in the face.
+    
+No body noticed, a very good sense of relief come to my body, and I could breath again. After all this nightmare we were taken to a boardroom to yell at us, I didn’t care at all, I was death, like a ghost and to me that was a battle won.
 
 #To be continued..  
