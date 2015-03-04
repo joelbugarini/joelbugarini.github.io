@@ -2,41 +2,132 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joel Bugarini</title>
-    <description>This blog is mine, I give this blog to you!</description>
+    <description>of Code and Love </description>
     <link>http://joelbugarini.github.io/</link>
     <atom:link href="http://joelbugarini.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 10 Aug 2014 19:54:08 -0700</pubDate>
-    <lastBuildDate>Sun, 10 Aug 2014 19:54:08 -0700</lastBuildDate>
+    <pubDate>Wed, 04 Mar 2015 16:04:34 -0700</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2015 16:04:34 -0700</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
-        <title>Joe&#39;s Blog (What is this about?)</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+        <title>Your Knowledge Portfolio</title>
+        <description>&lt;p&gt;A few years ago I took the decision of start my professional career, and have had a lot of help in the process, between colleagues, mentors, and books. Now I want to give a great tip, with a little luck you’ll find this useful. &lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Sometimes I use to think that I could learn faster and in a better way, in fact, thats because I can, there’s only help and orientation that you need.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Helo World!!&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Other situations like this make you reflex in one simple thing: “there’s something wrong with the way I Learn” and all this is part of the process, don’t jump of a bridge, now you can go on and learn from your mistake. But how can I do that…? Easy:&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Grow your knowledge portfolio”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Your knowledge portfolio is like investors’ portfolio and it keep some simple rules:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Invest regularly, as a habit. Take classes, read a book per month. Invest in your education, buy magazine about topics of your career to stay current. Doesn’t matter if is a big inversion or a little one, it is an inversion and now is your habit.&lt;/li&gt;
+  &lt;li&gt;Diversification. Learn a Language each year, and do it well, remember that a developer is only as a strong as its weakest technology. As the previous example expose, never stay with just one language, because it will be like having just one screwdriver for work. Another thing that you can’t forget is the human part, read non-technical books for your personal knowledge.&lt;/li&gt;
+  &lt;li&gt;Balance between conservative and high-risk. Don’t miss the opportunities of some potential rewarding learning just for a traditional one. The research of new technologies could be highly rewarding.&lt;/li&gt;
+  &lt;li&gt;Buy low and sell. There’s a ton of undervalued technologies on the market, but the payoff could be rewarding.&lt;/li&gt;
+  &lt;li&gt;Review and rebalance. Now days this industry is a high-speed race because when you start, you can never stand in the same place. But the more we learn, the better our community is.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Remember that &lt;a href=&quot;http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X&quot;&gt;pragmatic programmer&lt;/a&gt; is an almost necesary book to read for building a career.&lt;/p&gt;
+
+&lt;p&gt;So, now you got it never let it go, this is your race and you can go as fast as you want. And like our friend Alice Cooper use to says: “that’s all I’ve got to give to you” &lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 26 Jul 2014 16:20:51 -0700</pubDate>
-        <link>http://joelbugarini.github.io/jekyll/update/2014/07/26/Joes-Blog/</link>
-        <guid isPermaLink="true">http://joelbugarini.github.io/jekyll/update/2014/07/26/Joes-Blog/</guid>
+        <pubDate>Sun, 24 Aug 2014 16:33:51 -0700</pubDate>
+        <link>http://joelbugarini.github.io/pragmatic/2014/08/24/Knowledge-portfolio/</link>
+        <guid isPermaLink="true">http://joelbugarini.github.io/pragmatic/2014/08/24/Knowledge-portfolio/</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>pragmatic</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+        <title>Think in a Single Responsibility Design</title>
+        <description>&lt;p&gt;Sometimes, designing a new app, modifying an algorithm or any other kind of software might be a hard thing to do. And talking about &lt;a href=&quot;http://en.wikipedia.org/wiki/Object-oriented_programming&quot;&gt;Object Oriented Programming&lt;/a&gt;, the design is essential for avoiding this issue. &lt;strong&gt;Single Responsibility&lt;/strong&gt; is a principle that you can follow for make better Software Designs. &lt;a href=&quot;http://en.wikipedia.org/wiki/Robert_Cecil_Martin&quot;&gt;Robert C. Martin&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;p&gt;“There should never be more than one reason for a class to change.”&lt;/p&gt;
+
+&lt;p&gt;A class with just one reason to be, a method with just one function and a variable declared just with one propose. This will help to make cleaner code and maintain it easily.&lt;/p&gt;
+
+&lt;p&gt;Here, a draw for make my point:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/srd.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see, in the good design a student have just one reason to be, “Study” and the teacher “Teach” and each one had some methods with one function. In this case, we are following the Single Responsibility Principle.&lt;/p&gt;
+
+&lt;p&gt;Applying this principle to code, it should be something like this:&lt;/p&gt;
+
+&lt;p&gt;Without SR principle:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Student&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Study&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;//Functions for study&lt;/span&gt;
+        &lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Knowledge&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// Answer questions in homework&lt;/span&gt;
+        &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Answers&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// Design test&lt;/span&gt;
+        &lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// Answer test in a hour&lt;/span&gt;
+        &lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;answeredTest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// Teach class&lt;/span&gt;
+        &lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;speach&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// Answer test in a hour&lt;/span&gt;
+        &lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;notes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+ 
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;With SR principle:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Student&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ 
+    &lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Study&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;//functions for study&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Knowledge&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+ 
+    &lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;DoHomework&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Questions&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// Answer questions in homework&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Answers&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+ 
+    &lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;SolveExam&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// Answer test in a hour&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;answeredTest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+ 
+    &lt;span class=&quot;k&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;TakeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Speach&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// Answer test in a hour&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;notes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;As you can see, we are not summarizing nothing, in fact this generally make more lines of code, but also make our code more beautiful and clear. That’s the reason why we use it.&lt;/p&gt;
+
+&lt;p&gt;Now, rush into the class that have been giving you problems and apply the SRP, show it who’s the boss. As soon as you go deep with that class, you will understand it better and it will be easy to remember.&lt;/p&gt;
+
+&lt;p&gt;The Single Responsibility Principle is one of the five first principles of the &lt;a href=&quot;http://en.wikipedia.org/wiki/Object-oriented_programming&quot;&gt;Object Oriented Programming&lt;/a&gt;, identified by &lt;a href=&quot;http://en.wikipedia.org/wiki/Robert_Cecil_Martin&quot;&gt;Robert C. Martin&lt;/a&gt;, and it is usually called S.O.L.I.D.&lt;/p&gt;
+
+&lt;p&gt;If you want more info about the topic, this links will help you:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.blackwasp.co.uk/SOLID.aspx&quot;&gt;The S.O.L.I.D. Object Oriented Programming(OOP) Principles&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;T&lt;a href=&quot;http://www.remondo.net/category/solid-series/&quot;&gt;he SOLID Principles in C#&lt;/a&gt;, Leon van Bokhorst, did a great job with the series SOLID in Remondo.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading and have a nice day!&lt;/p&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
@@ -48,14 +139,14 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 23 Jul 2014 16:20:51 -0700</pubDate>
-        <link>http://joelbugarini.github.io/jekyll/update/2014/07/23/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://joelbugarini.github.io/jekyll/update/2014/07/23/welcome-to-jekyll/</guid>
+        <pubDate>Thu, 13 Jun 2013 16:20:51 -0700</pubDate>
+        <link>http://joelbugarini.github.io/solid/oop/2013/06/13/single-responsability/</link>
+        <guid isPermaLink="true">http://joelbugarini.github.io/solid/oop/2013/06/13/single-responsability/</guid>
         
         
-        <category>jekyll</category>
+        <category>solid</category>
         
-        <category>update</category>
+        <category>oop</category>
         
       </item>
     

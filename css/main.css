@@ -385,9 +385,6 @@ a:visited { color: #205caa; }
 
 }
 .about-content {
-    -webkit-columns: 300px 3;
-       -moz-columns: 300px 3;
-            columns: 300px 3;
     text-align: justify;
 }
 
