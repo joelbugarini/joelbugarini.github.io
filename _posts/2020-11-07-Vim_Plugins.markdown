@@ -35,6 +35,7 @@ Here, we are installing the dracula theme for testing our plugin system. Save th
 {% endhighlight %}
 
 After restarting vim it should look like this:
+\
 ![dracula theme]({{ site.url }}/assets/dracula.png)
 
 Under the `call plug#end()` line we can configure our vim editor with the `set` method.
@@ -61,4 +62,5 @@ set cursorline
 {% endhighlight %}
 
 This configuration will add a ruler of number for the code, add an always visible status line, highlight the current cursor line, and set the tab and indentation variables.
+\
 ![vim02]({{ site.url }}/assets/vim02.png)
