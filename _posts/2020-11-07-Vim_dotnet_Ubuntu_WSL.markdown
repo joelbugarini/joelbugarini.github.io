@@ -46,7 +46,18 @@ sudo apt-get update; \
   sudo apt-get install -y dotnet-sdk-3.1
 {% endhighlight %}
 
-We can verify the installation with the command: `dotnet --version`. It should prompt the version, mine is `3.1.403`.
+We can verify the installation with the command: `dotnet --version`. It should prompt the version, mine is `3.1.403`. Lets create a console application to be in the same page while we install everything else:
+{% highlight bash %}
+dotnet new console --name watermellon
+{% endhighlight %}
+
+It will create a folder with the name watermellon, inside the folder you can find the `Program.cs` file, that contains the main function of our console app. Now let's open the file with vim, so we can compare it later.
+
+{% highlight bash %}
+cd watermellon/ && vim Program.cs
+{% endhighlight %}
+
+![vim01]({{ site.url }}/assets/vim01.png)
 
 Text editor is already installed in our system, we just need to add some packages to make it better.
 
