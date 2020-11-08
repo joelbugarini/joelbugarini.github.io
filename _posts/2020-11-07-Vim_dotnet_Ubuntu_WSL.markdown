@@ -59,9 +59,12 @@ cd watermellon/ && vim Program.cs
 
 ![vim01]({{ site.url }}/assets/vim01.png)
 
-Text editor is already installed in our system, we just need to add some packages to make it better.
 
+Vim editor is already installed in our system. As you can see, we are ready to start developing with this configuration, just make some modifications to the files and you can run the application with the command `dotnet run`. We can make our environment a lot better, but for this post is enough. In further post we will dive deeper in vim, and OmniSharper.
 
-{% highlight bash %} sudo apt-get update && sudo apt-get install -y exuberant-ctags {% endhighlight %}
-
+Further reading:
+[What is the Windows Subsystem for Linux?](https://docs.microsoft.com/en-us/windows/wsl/about)
+[Ubuntu on WSL](https://ubuntu.com/wsl)
+[What is ASP.NET Core?](https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet-core)
+[What Is Vim?](https://www.vim.org/about.php)
 
