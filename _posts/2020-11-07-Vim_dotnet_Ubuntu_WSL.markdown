@@ -30,14 +30,14 @@ The first thing we will need to do in Ubuntu is to update our apt-get sources wi
 sudo apt-get update
 {% endhighlight %}
 
-Now that's installed the darknet core SDK. Remember that eat only can be installed Ubuntu 20.04, 18.04 and 16.04. These are the supported distributions. We will be using the 20.04 distribution for the example, if you intend to install other version, please refere to this link: ![https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu](https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu). 
+Now let's install the dotnet core SDK. Remember that it can only be installed Ubuntu 20.04, 18.04 and 16.04. Those are the supported distributions. We will be using the 20.04 distribution for the example, if you intend to install other version, please refere to this link: [https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu](https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu). 
 
 In the terminal write the following:
 {% highlight bash %}
 wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
 sudo dpkg -i packages-microsoft-prod.deb
 {% endhighlight %}
-This will download the Packers from the Microsoft site, to install the SDK run the following command:
+This will download the packages from the Microsoft site, to install the SDK run the following command:
 
 {% highlight bash %}
 sudo apt-get update; \
@@ -45,6 +45,8 @@ sudo apt-get update; \
   sudo apt-get update && \
   sudo apt-get install -y dotnet-sdk-3.1
 {% endhighlight %}
+
+We can verify the installation with the command: `dotnet --version`. It should prompt the version, mine is `3.1.403`.
 
 Text editor is already installed in our system, we just need to add some packages to make it better.
 
