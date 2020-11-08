@@ -14,8 +14,8 @@ First of all we need to install Ubuntu on Windows subsystem Linux,  for this we 
 
 Once it's open write the next line of code:
 
-{% highlight bash %}
-sudo apt-get update && sudo apt-get install -y exuberant-ctags
+{% highlight powershell %}
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 {% endhighlight %}
 
 It might ask you to restart your computer, and after that we will be able to install Ubuntu through the Microsoft Store. 
