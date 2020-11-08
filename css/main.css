@@ -34,18 +34,6 @@ a         { color: #2a7ae2; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
 a:visited { color: #205caa; }
 
-/* Utility */
-
-.wrap:before,
-.wrap:after { content:""; display:table; }
-.wrap:after { clear: both; }
-.wrap {
-  padding: 0 30px;
-  margin: 0 auto;
-  zoom: 1;
-}
-
-
 /* Layout Styles */
 /* ----------------------------------------------------------*/
 
