@@ -8,3 +8,6 @@ categories: tools
 
 This is an amazing good looking app for writing.
 
+![powershell]({{ site.url }}/assets/powershell.png)
+
+sudo apt-get update && sudo apt-get install -y exuberant-ctags
