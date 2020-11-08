@@ -5,7 +5,7 @@ date:   2020-11-07 22:45:51
 categories: tutorial
 ---
 
-We already have a workable environment with vim, now let's make it feel like home. Vim is popular because it is customizable through plug-ins. There are some options to install plug-ins in vim but let's stick with one for this tutorial: `vim-plug`.
+We already have a workable environment with vim, now let's make it feel like home. Vim is popular because it is customizable through plug-ins. There are some options to install plug-ins in vim but let's stick with one for this tutorial: `vim-plug`. To install please enter the following code in the terminal:
 
 {% highlight bash %}
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
@@ -25,9 +25,13 @@ Now write the following:
 call plug#begin('~/.vim/plugged')
 Plug 'dracula/vim', { 'as': 'dracula' }
 call plug#end()
+
+colorscheme dracula
 {% endhighlight %}
 
 Here, we are installing the dracula theme for testing our plugin system. Save the file and reload vim. Then use this command to install the plugin.
 {% highlight bash %}
 :PlugInstall
 {% endhighlight %}
+
+![dracula theme]({{ site.url }}/assets/dracula.png)
