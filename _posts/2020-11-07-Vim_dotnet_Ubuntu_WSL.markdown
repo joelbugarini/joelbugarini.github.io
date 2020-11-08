@@ -12,4 +12,7 @@ Let's set up our environment to develop using the dotnet framework with vim on U
 
 ![powershell]({{ site.url }}/assets/powershell.png)
 
+{% highlight bash %}
 sudo apt-get update && sudo apt-get install -y exuberant-ctags
+{% endhighlight %}
+
