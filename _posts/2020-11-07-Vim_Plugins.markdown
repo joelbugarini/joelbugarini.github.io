@@ -68,10 +68,11 @@ This configuration will add a ruler of number for the code, add an always visibl
 # Other Plugins
 
 There are plenty of plugins to add to your vim, here I suggest some of them.
-*[vim-airline](https://github.com/vim-airline/vim-airline)
-*[NERDTree](https://github.com/preservim/nerdtree)
-*[Tagbar](https://github.com/preservim/tagbar)
-*[vim-autoclose](https://github.com/Townk/vim-autoclose)
+
+* [vim-airline](https://github.com/vim-airline/vim-airline)
+* [NERDTree](https://github.com/preservim/nerdtree)
+* [Tagbar](https://github.com/preservim/tagbar)
+* [vim-autoclose](https://github.com/Townk/vim-autoclose)
 
 Note: tagbar has a dependency that need to be installled through apt-get: `exuberant-ctags`. To install this dependency:
 
