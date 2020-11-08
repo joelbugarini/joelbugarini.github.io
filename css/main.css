@@ -157,6 +157,13 @@ a:visited { color: #205caa; }
     position: relative;
 }
 
+.merger{
+    clear: both;
+    width: 80%;
+    max-width: 92.3em;
+    margin: 0 auto;
+}
+
 
 /* Home styles */
 /* ----------------------------------------------------------*/
