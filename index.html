@@ -16,7 +16,7 @@ layout: default
     <h2>Posts:</h2>
 
   <ul class="leaders">
-    {% for post in site.posts %}
+    {% for post in site.posts reversed %}
       <li>
         <span class="">
             <a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>&nbsp;<small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
