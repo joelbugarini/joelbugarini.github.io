@@ -67,12 +67,9 @@ Vim editor is already installed in our system. As you can see, we are ready to s
 
 Further reading:
 
-[What is the Windows Subsystem for Linux?](https://docs.microsoft.com/en-us/windows/wsl/about)
-
-[Ubuntu on WSL](https://ubuntu.com/wsl)
-
-[What is ASP.NET Core?](https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet-core)
-
-[What Is Vim?](https://www.vim.org/about.php)
+* [What is the Windows Subsystem for Linux?](https://docs.microsoft.com/en-us/windows/wsl/about)
+* [Ubuntu on WSL](https://ubuntu.com/wsl)
+* [What is ASP.NET Core?](https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet-core)
+* [What Is Vim?](https://www.vim.org/about.php)
 
 
